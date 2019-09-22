@@ -18,14 +18,14 @@
 }
 
 .item {
-    border-top: 1px solid #0097e6;
+    border-top: 1px solid #58B19F;
     overflow: hidden;
 }
 
 .btn{
     display: block;
     padding: 16px 20px;
-    background: #00a8ff;
+    background: #55E6C1;
     color: white;
     position: relative;
 }
@@ -34,7 +34,7 @@
         position: absolute;
         width: 14px;
         height: 14px;
-        background: #00a8ff;
+        background: #55E6C1;
         left: 20px;
         bottom: -7px;
         transform: rotate(45deg);
@@ -43,7 +43,7 @@
         margin-right: 10px;
     }
 .smenu {
-    background: #2f3640;
+    background: #2C3A47;
     overflow: hidden;
     transition: max-height 0.3s;
     max-height: 0;
@@ -61,7 +61,7 @@
         position: absolute;
         width: 6px;
         height: 100%;
-        background: #00a8ff;
+        background: #55E6C1;
         left: 0;
         top: 0;
         transition: 0.3;
